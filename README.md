@@ -1,2 +1,1 @@
-# noticiaschat
-chat noticias
+# webchat
